@@ -13,6 +13,6 @@ Credit for some ideas/direction are derived from [Olga Dolinskaja excellent blog
 - [References](##References)
 
 
-##References
+## References
 > [ATC-Best-Practice](#atc-best-practice) > [Content](#content) > [This section](#references)
 
