@@ -14,11 +14,12 @@ Credit for the vast majority of ideas/direction are derived from [Olga Dolinskaj
 
 - [References](##references)
 - [Central ATC](##central-atc)
-  - [OSS Notes](##oss-notes1)
-  - [RFC Destinations](##RFC Destinations)
-  - [RFC Users](##RFC Users)
-- [Local ATC](##Local ATC)
-  - [OSS Notes](##OSS Notes2)
+  - [Central SAP Notes](##central-sap-notes)
+  - [Checked System SAP Notes](##checked-system-sap-notes)
+  - [RFC Destinations](##rfc-destinations)
+  - [RFC Users](##rfc-users)
+- [Local ATC](##local-atc)
+  - [SAP Notes](##sap-notes)
 
 ## References
 > [ATC-Best-Practice](#atc-best-practice) > [Content](#content) > [This section](#references)
@@ -26,8 +27,11 @@ Credit for the vast majority of ideas/direction are derived from [Olga Dolinskaj
 ## Central ATC
 > [ATC-Best-Practice](#atc-best-practice) > [Content](#content) > [This section](#central-atc)
 
+## Central SAP Notes
+> [ATC-Best-Practice](#atc-best-practice) > [Content](#content) > [This section](#central-sap-notes)
+
 ## OSS Notes1
-> [ATC-Best-Practice](#atc-best-practice) > [Content](#content) > [This section](#oss-notes1)
+> [ATC-Best-Practice](#atc-best-practice) > [Content](#content) > [This section](#sap-notes1)
 ## RFC Destinations
 
 ## RFC Users
