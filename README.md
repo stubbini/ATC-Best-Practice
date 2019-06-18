@@ -14,7 +14,7 @@ Credit for the vast majority of ideas/direction are derived from [Olga Dolinskaj
 
 - [References](##references)
 - [Central ATC](##central-atc)
-  - [OSS Notes](##OSS Notes1)
+  - [OSS Notes](##oss-notes1)
   - [RFC Destinations](##RFC Destinations)
   - [RFC Users](##RFC Users)
 - [Local ATC](##Local ATC)
@@ -27,7 +27,7 @@ Credit for the vast majority of ideas/direction are derived from [Olga Dolinskaj
 > [ATC-Best-Practice](#atc-best-practice) > [Content](#content) > [This section](#central-atc)
 
 ## OSS Notes1
-
+> [ATC-Best-Practice](#atc-best-practice) > [Content](#content) > [This section](#oss-notes1)
 ## RFC Destinations
 
 ## RFC Users
