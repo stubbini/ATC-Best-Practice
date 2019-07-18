@@ -31,7 +31,7 @@ Credit for the vast majority of ideas/direction are derived from [Olga Dolinskaj
 > [ABAP Test Cockpit Best Practice](#ABAP-Test-Cockpit-Best-Practice) > [Content](#content) > [This section](#central-sap-notes)
 
 ## OSS Notes1
-> [ABAP Test Cockpit Best Practice](#ABAP-Test-Cockpit-Best-Practice) > [Content](#content) > [This section](#sap-notes1)
+> [ABAP Test Cockpit Best Practice](#ABAP-Test-Cockpit-Best-Practice) > [Content](#content) > [This section](#oss-notes1)
 ## RFC Destinations
 > [ABAP Test Cockpit Best Practice](#ABAP-Test-Cockpit-Best-Practice) > [Content](#content) > [This section](#rfc-destinations)
 ## RFC Users
