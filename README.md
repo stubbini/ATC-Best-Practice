@@ -1,4 +1,4 @@
-# ABAP Test Cockpit Best Practice(#abap-best-practice)
+# ABAP Test Cockpit Best Practice
 
 This serves as a best practice guide to steer ATC implementers and maintenance teams
 
@@ -22,19 +22,19 @@ Credit for the vast majority of ideas/direction are derived from [Olga Dolinskaj
   - [SAP Notes](#sap-notes)
 
 ## References
-> [ATC-Best-Practice](#atc-best-practice) > [Content](#content) > [This section](#references)
+> [ABAP Test Cockpit Best Practice](#atc-best-practice) > [Content](#content) > [This section](#references)
 
 ## Central ATC
-> [ATC-Best-Practice](#atc-best-practice) > [Content](#content) > [This section](#central-atc)
+> [ABAP Test Cockpit Best Practice](#atc-best-practice) > [Content](#content) > [This section](#central-atc)
 
 ## Central SAP Notes
-> [ATC-Best-Practice](#atc-best-practice) > [Content](#content) > [This section](#central-sap-notes)
+> [ABAP Test Cockpit Best Practice](#atc-best-practice) > [Content](#content) > [This section](#central-sap-notes)
 
 ## OSS Notes1
-> [ATC-Best-Practice](#atc-best-practice) > [Content](#content) > [This section](#sap-notes1)
+> [ABAP Test Cockpit Best Practice](#atc-best-practice) > [Content](#content) > [This section](#sap-notes1)
 ## RFC Destinations
-> [ATC-Best-Practice](#atc-best-practice) > [Content](#content) > [This section](#rfc-destinations)
+> [ABAP Test Cockpit Best Practice](#atc-best-practice) > [Content](#content) > [This section](#rfc-destinations)
 ## RFC Users
-> [ATC-Best-Practice](#atc-best-practice) > [Content](#content) > [This section](#rfc-destinations)
+> [ABAP Test Cockpit Best Practice](#atc-best-practice) > [Content](#content) > [This section](#rfc-destinations)
 ## Local ATC
 
