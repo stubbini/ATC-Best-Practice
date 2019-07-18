@@ -25,16 +25,16 @@ Credit for the vast majority of ideas/direction are derived from [Olga Dolinskaj
 > [ABAP Test Cockpit Best Practice](#ABAP-Test-Cockpit-Best-Practice) > [Content](#content) > [This section](#references)
 
 ## Central ATC
-> [ABAP Test Cockpit Best Practice](#atc-best-practice) > [Content](#content) > [This section](#central-atc)
+> [ABAP Test Cockpit Best Practice](#ABAP-Test-Cockpit-Best-Practice) > [Content](#content) > [This section](#central-atc)
 
 ## Central SAP Notes
-> [ABAP Test Cockpit Best Practice](#atc-best-practice) > [Content](#content) > [This section](#central-sap-notes)
+> [ABAP Test Cockpit Best Practice](#ABAP-Test-Cockpit-Best-Practice) > [Content](#content) > [This section](#central-sap-notes)
 
 ## OSS Notes1
-> [ABAP Test Cockpit Best Practice](#atc-best-practice) > [Content](#content) > [This section](#sap-notes1)
+> [ABAP Test Cockpit Best Practice](#ABAP-Test-Cockpit-Best-Practice) > [Content](#content) > [This section](#sap-notes1)
 ## RFC Destinations
-> [ABAP Test Cockpit Best Practice](#atc-best-practice) > [Content](#content) > [This section](#rfc-destinations)
+> [ABAP Test Cockpit Best Practice](#ABAP-Test-Cockpit-Best-Practice) > [Content](#content) > [This section](#rfc-destinations)
 ## RFC Users
-> [ABAP Test Cockpit Best Practice](#atc-best-practice) > [Content](#content) > [This section](#rfc-destinations)
+> [ABAP Test Cockpit Best Practice]#ABAP-Test-Cockpit-Best-Practice) > [Content](#content) > [This section](#rfc-users)
 ## Local ATC
-
+> [ABAP Test Cockpit Best Practice]#ABAP-Test-Cockpit-Best-Practice) > [Content](#content) > [This section](#local-atc)
