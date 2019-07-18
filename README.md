@@ -15,7 +15,7 @@ Credit for the vast majority of ideas/direction are derived from [Olga Dolinskaj
 - [References](#references)
 - [Central ATC](#central-atc)
   - [Central SAP Notes](#central-sap-notes)
-  - [Checked System SAP Notes](##checked-system-sap-notes)
+  - [Checked System SAP Notes](#checked-system-sap-notes)
   - [RFC Destinations](#rfc-destinations)
   - [RFC Users](#rfc-users)
 - [Local ATC](#local-atc)
@@ -30,8 +30,8 @@ Credit for the vast majority of ideas/direction are derived from [Olga Dolinskaj
 ## Central SAP Notes
 > [ABAP Test Cockpit Best Practice](#ABAP-Test-Cockpit-Best-Practice) > [Content](#content) > [This section](#central-sap-notes)
 
-## OSS Notes1
-> [ABAP Test Cockpit Best Practice](#ABAP-Test-Cockpit-Best-Practice) > [Content](#content) > [This section](#oss-notes1)
+## Checked System SAP Notes
+> [ABAP Test Cockpit Best Practice](#ABAP-Test-Cockpit-Best-Practice) > [Content](#content) > [This section](#checked-system-sap-notes)
 ## RFC Destinations
 > [ABAP Test Cockpit Best Practice](#ABAP-Test-Cockpit-Best-Practice) > [Content](#content) > [This section](#rfc-destinations)
 ## RFC Users
