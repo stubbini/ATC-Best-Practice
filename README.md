@@ -22,7 +22,7 @@ Credit for the vast majority of ideas/direction are derived from [Olga Dolinskaj
   - [SAP Notes](#sap-notes)
 
 ## References
-> [ABAP Test Cockpit Best Practice](#ABAP Test Cockpit Best Practice) > [Content](#content) > [This section](#references)
+> [ABAP Test Cockpit Best Practice](#ABAP-Test-Cockpit-Best-Practice) > [Content](#content) > [This section](#references)
 
 ## Central ATC
 > [ABAP Test Cockpit Best Practice](#atc-best-practice) > [Content](#content) > [This section](#central-atc)
